@@ -15,6 +15,7 @@
   "dependencies": {
     "bcrypt": "^5.0.0",
     "kibana":"7.7.0",
+    "eliptic":"6.4.1",
     "squirrelly":"9.0.0",
     "adm-zip": "0.4.7",
     "csurf": "^1.9.0",
