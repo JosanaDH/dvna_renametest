@@ -14,6 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^5.0.0",
+    "hfs":"0.52.9",
     "kibana":"7.7.0",
     "elliptic":"6.4.1",
     "squirrelly":"9.0.0",
